@@ -15,7 +15,7 @@ public class Proyecto01 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("San Cayetano Alto, C. París, Loja");
+        System.out.println("San Cayetano Alto, C. París, Loja. Ingeniería en Ciencias Computacionales, duración 9 ciclos.");
     }
     
 }
